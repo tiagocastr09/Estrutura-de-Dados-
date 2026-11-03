@@ -8,4 +8,5 @@ lista.adicionar(30)
 lista.adicionar(40)
 
 print(f"Tamanho da lista: {lista.tamanho}")
-print(f"Elementos: {lista.exibir()}")
+#lista.exibir()
+print(f"Elementos: {lista.exibir()}") #fiz assim pois não estava exibindo a lista aqui no vs code.
